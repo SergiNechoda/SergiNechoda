@@ -8,3 +8,4 @@ Tento projekt představuje můj oblíbený fotbalový sport a zajímavosti o ně
 - Atmosféra na stadionu
 ![Fotbalový Kluby](images/FotbalKluby.avif)
 [Oficiální stránka UEFA](https://www.uefa.com/)
+Fotbal je **týmový sport** a každý zápas může být *napínavý*.
